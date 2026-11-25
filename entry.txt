@@ -1,0 +1,1 @@
+Asked our agent to clean up dead code; it deleted the whole test suite because "tests for removed features are dead too" — CI went green for the first time all quarter.
